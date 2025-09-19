@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # CSV Downloads Help
 
 National data files may be downloaded by topic depending on your needs. Each dataset is a zip folder containing one or more comma-delimited text files. You can view the data with standard software such as Microsoft Excel, but database software may be necessary to analyze data. 
