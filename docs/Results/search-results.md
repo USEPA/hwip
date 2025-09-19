@@ -98,17 +98,17 @@ Displays the federal generator category of hazardous waste generators. No value 
 - Small: Small Quantity Generators (SQGs) generate more than 100 kilograms, but less than 1,000 kilograms of hazardous waste per month.
 - Very Small: Very Small Quantity Generators (VSQGs) generate 100 kilograms or less per month of hazardous waste or one kilogram or less per month of acutely hazardous waste.
 
-**TSDF Status**
+**Operating TSDF**
 
-Displays the operating status of Treatment, Storage, and Disposal Facilities (TSDFs). No value means the site is not a TSDF.
+Displays whether the site is an Operating TSDF. An Operating Treatment, Storage, and Disposal Facility is a facility that is subject to hazardous waste permit requirements and is treating, storing, or disposing of hazardous waste. This status includes every facility that has at least one hazardous waste management unit where the operating status of the most recent unit data indicates it is actively managing hazardous waste.
 
 **Cleanup Site**
 
-Site is on EPA's list of hazardous waste treatment, storage, and disposal facilities in the cleanup pipeline reflecting program priorities, known as the RCRA Corrective Action Progress Track. No value means the site is not on this list.
+Displays whether the site is on EPA's list of hazardous waste treatment, storage, and disposal facilities in the cleanup pipeline reflecting program priorities, known as the RCRA Corrective Action Progress Track. No value means the site is not on this list.
 
 **Transporter**
 
-Site is engaged in the off-site transportation of hazardous waste by air, rail, highway, or water. No value means the site is not a transporter.
+Displays whether the site is engaged in the off-site transportation of hazardous waste by air, rail, highway, or water.
 
 **Lat/Long**
 
