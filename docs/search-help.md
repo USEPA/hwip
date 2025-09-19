@@ -104,7 +104,7 @@ Search for Treatment, Storage, and Disposal Facilities based on the Operating St
 
 *Inactive/closing, but not yet RCRA Closed*: This status indicates a unit that has received its final amount of hazardous waste but has not completed all closure activities required by hazardous waste regulations.
 
-*Operating*: An Operating Treatment, Storage, and Disposal Facility is a facility that is subject to hazardous waste permit requirements and is treating, storing, or disposing of hazardous waste. This status includes every facility that has at least one hazardous waste management unit where the most recent unit data indicates it is actively managing hazardous waste.
+*Operating*: An Operating Treatment, Storage, and Disposal Facility is a facility that is subject to hazardous waste permit requirements and is treating, storing, or disposing of hazardous waste. This status includes every facility that has at least one hazardous waste management unit where the operating status of the most recent unit data indicates it is actively managing hazardous waste.
 
 *Post-Closure Care*: This is a grouping of three operating statuses. 
 - Under Alternate Enforceable Document for Post-Closure Care: unit closed with waste in place or cannot attain clean closure and has an approved post-closure plan or similar enforceable document (such as a consent order) covering post-closure care obligations.
