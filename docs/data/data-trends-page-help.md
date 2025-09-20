@@ -2,7 +2,7 @@
 
 The Hazardous Waste Information Platform's Data Trends and Analysis page provides access to a variety hazardous waste program data presented in tables, maps, dashboards, and charts. 
 
-Use the Filter by menu to display only content chosen content. Options:
+Use the Filter by menu to display only chosen content. Options:
 
 - Annual Report
 - Biennial Report
