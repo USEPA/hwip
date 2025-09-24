@@ -8,12 +8,12 @@ The word “site” on this website refers to any type of regulated hazardous wa
 
 ## Report Features
 
-- *Share*: The Share button copies the reports web address to your clipboard for easy pasting into a message.
-- *Print PDF*: The Print PDF button opens your devices print feature so that you can save or print a static copy of the report.
+- *Share*: The Share button copies the report's web address to your clipboard for easy pasting into a message.
+- *Print PDF*: The Print PDF button opens your device's print feature so that you can save or print a static copy of the report.
 - *Card*: The card on the top left of the report displays basic site identification information. Scroll down the report for details.
 - *Map*: Click the "Expand" button to view the map in full screen. Click "Collapse" to return the map to its original size. The "Layers" section allows you to toggle the base map between street or satellite view. 
 - *Jump to Section*: the contents of the report are listed as links that take you directly to that section of the report.
-- *Table Sort Arrows*: certain tables on the report have up and down arrows next to the column names. Click on a set of arrows to sort the data in the table by that column.
+- *Table Sort Arrows*: some tables on the report have up and down arrows next to the column names. Click on a set of arrows to sort the data in the table by that column.
   
 ## Data Sections
 
@@ -29,7 +29,7 @@ This table lists each of the site's owners, operators, and contacts, according t
   
 **Industry Categories (NAICS)**
 
-This table lists all NAICS codes listed for the site, according to the latest source record. These are 2- to 6-digit codes indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. Census Bureau. The first two digits represent the Industry sector, and each digit adds more specificity.
+This table displays all NAICS codes listed for the site, according to the latest source record. These are 2- to 6-digit codes indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. Census Bureau. The first two digits represent the industry sector, and each digit adds more specificity.
 
 **Federal Activities**
 
@@ -62,9 +62,10 @@ The Recent Episodic Events table displays any non-routine waste generation event
 
 ### Hazardous Waste Cleanups
 
-The Hazardous Waste Cleanups table displays, for hazardous waste cleanup sites
+The Hazardous Waste Cleanups table displays, for hazardous waste cleanup sites:
+
 - whether events related to corrective action remedy selection and remedy construction have been reported. 
-- whether human exposure and groundwater events have been reported reported on in the Environmental Indicators column. 
+- whether human exposure and groundwater events have been reported, in the Environmental Indicators column. 
 - whether the ready for anticipated use event has been reported.
 - whether performance standards were attained and cleanup process terminated. 
 
@@ -80,7 +81,7 @@ This table summarizes the waste shipped from the site by year, based on the data
 
 **Manifest Receipts**
 
-This table summarizes the waste received at site by year, based on the data on hazardous waste manifests. 
+This table summarizes the waste received at the site by year, based on the data on hazardous waste manifests. 
 
 ### Biennial Report
 
@@ -98,4 +99,4 @@ This table lists all state hazardous waste handled at the site, according to at 
 
 ### Site History
 
-The Site History Details table lists all previous names and federal generator categories for the site, along with date the information was received in EPA's RCRAInfo.
+The Site History Details table lists all previous names and federal generator categories for the site, along with date the information was received in EPA's RCRAInfo system.
