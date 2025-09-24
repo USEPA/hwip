@@ -8,7 +8,7 @@ Running a site search from the home page or the Advanced Search form brings you 
 
 **From home page search**
 
- The "Search by" bar above the results displays
+ The "Search by" bar above the results displays:
  
  - Whether you searched by Site Name or ID, entered a Location, or used your location ("Coordinates").
  - Your search term(s).
@@ -59,7 +59,7 @@ Click on map pins to view the site's name and address. This action also highligh
 
 When in the Table View, you may download your search results into a comma-separated values (CSV) file. CSV files can be opened in spreadsheet software, such as Excel, for analysis.
 
-- Click Full Dataset to download the facilities in your list along with additional data about each facility. The Full Dataset option is available for a results set of 10,000 sites or less.
+- Click Full Dataset to download the facilities in your list along with additional data about each facility. The Full Dataset option is available for results sets of 10,000 sites or less.
 - Click Quick CSV to download the facilities in your list with only the data you see on the screen.
 
 ### Adjust Search Criteria
@@ -73,7 +73,7 @@ When in the Table View, you may download your search results into a comma-separa
 
 **From Advanced Search**
 
- To modify your search criteria, click the "Advanced Search" breadcrumb at the top of the page (between "Home" and "Search Results). Clicking your browser's back button also works during the same session. On the Advanced Search, change and/or add search criteria and click Search.
+ To modify your search criteria, click the "Advanced Search" breadcrumb at the top of the page (between "Home" and "Search Results"). Clicking your browser's back button also works during the same session. On the Advanced Search, change and/or add search criteria and click Search.
 
 ## Data
 
