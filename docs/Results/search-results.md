@@ -8,11 +8,12 @@ Running a site search from the home page or the Advanced Search form brings you 
 
 **From home page search**
 
- The "Search by" bar above the results displays 
+ The "Search by" bar above the results displays
+ 
  - Whether you searched by Site Name or ID, entered a Location, or used your location ("Coordinates").
  - Your search term(s).
 
-You may modify your site search by changing either or both of the above and click Search.
+You may modify your site search by changing either or both of the above and clicking Search.
 
 Note that the home page Location search returns sites that are within 10 miles of the center of location provided (whether city, state, or zip code). For a more specific, comprehensive search by location, use the Advanced Search.
 
@@ -52,11 +53,12 @@ You may zoom and pan the map to explore the mapped sites. This does not affect t
 
 A circle around a number indicates multiple sites in the area. Click the circle to zoom in to and display single facilities.
 
-Click on map pins to view the site's name and address. This action also highlight the site in the cards list or table.
+Click on map pins to view the site's name and address. This action also highlights the site in the cards list or table.
 
 ### Download Results
 
-When in the Table View, you may download your search results into a comma-separated values (CSV) file. CSV files can opened in spreadsheet software, such as Excel, for analysis.
+When in the Table View, you may download your search results into a comma-separated values (CSV) file. CSV files can be opened in spreadsheet software, such as Excel, for analysis.
+
 - Click Full Dataset to download the facilities in your list along with additional data about each facility. The Full Dataset option is available for a results set of 10,000 sites or less.
 - Click Quick CSV to download the facilities in your list with only the data you see on the screen.
 
@@ -65,6 +67,7 @@ When in the Table View, you may download your search results into a comma-separa
 **From home page search**
 
  To modify your search criteria, change either or both options in the "Search by" bar above the results and click Search.
+ 
  - Search by Site Name or ID, Location, or Coordinates (latitude and longitude in decimal degrees)
  - Your search term(s).
 
