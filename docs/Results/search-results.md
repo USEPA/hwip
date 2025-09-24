@@ -100,7 +100,7 @@ Displays the federal generator category of hazardous waste generators. No value 
 
 **Operating TSDF**
 
-Displays whether the site is an Operating TSDF. An Operating Treatment, Storage, and Disposal Facility is a facility that is subject to hazardous waste permit requirements and is treating, storing, or disposing of hazardous waste. This status includes every facility that has at least one hazardous waste management unit where the operating status of the most recent unit data indicates it is actively managing hazardous waste.
+Displays whether the site is an Operating TSDF, according to data in RCRAInfo. An Operating Treatment, Storage, and Disposal Facility is a facility that is subject to hazardous waste permit requirements and is treating, storing, or disposing of hazardous waste. A Yes in this field indicates the facility is actively managing hazardous waste. Note that these results use a calculated field that provides slightly different results than the Operating Status field used on the Advanced Search form.
 
 **Cleanup Site**
 
