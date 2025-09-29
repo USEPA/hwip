@@ -32,7 +32,7 @@ Large Quantity Generator of hazardous waste.
 
 **RCRA**
 
-The Resource Conservation and Recovery Act (RCRA) is a federal law that establishes the framework for managing hazardous and non-hazardous solid waste. HWIP generally focuses on hazardous waste management.
+The Resource Conservation and Recovery Act (RCRA) is a federal law that establishes the framework for managing hazardous and non-hazardous solid waste. The Hazardous Waste Information Platform generally focuses on hazardous waste management.
 
 **SQG**
 
