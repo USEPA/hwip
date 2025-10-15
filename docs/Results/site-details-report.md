@@ -77,15 +77,15 @@ The Permitting Details table shows the latest unit details of the hazardous wast
 
 **Manifest Shipments**
 
-This table summarizes the waste shipped from the site by year, based on the data on hazardous waste manifests. 
+This table summarizes the waste shipped from the site by year, based on the data on hazardous waste manifests. Data is shown for the current year and past two complete years.
 
 **Manifest Receipts**
 
-This table summarizes the waste received at the site by year, based on the data on hazardous waste manifests. 
+This table summarizes the waste received at the site by year, based on the data on hazardous waste manifests. Data is shown for the current year and past two complete years.
 
 ### Biennial Report
 
-The Biennial Report Summary table summarizes the waste reported handled by this site by year, based on the Biennial Hazardous Waste Report.
+The Biennial Report Summary table summarizes the waste reported handled by this site by year, based on the Biennial Hazardous Waste Report. Data is shown for the last four complete Biennial Hazardous Waste Reports.
 
 ### Waste Generated or Managed
 
