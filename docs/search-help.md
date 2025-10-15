@@ -125,7 +125,7 @@ Note: for the specific commercial status of a TSDF, see the Permitting Details s
 
 **Federal Waste Codes**
 
-Search for facilities that manage specific federal waste types according to hazardous waste manifests or the latest Biennial Hazardous Waste Report. You may select multiple codes to return facilities that manage at least one of the waste types selected.
+Search for facilities that manage specific federal waste types according to the past 365 days of hazardous waste manifests or the latest Biennial Hazardous Waste Report. You may select multiple codes to return facilities that manage at least one of the waste types selected.
 
 **State Waste Codes**
 
@@ -151,7 +151,7 @@ Search for sites that reported a non-routine waste generation event in the last 
 
 **Federal Waste Codes**
 
-Search for sites that generate specific federal waste types according to hazardous waste manifests or the latest Biennial Hazardous Waste Report. You may select multiple codes to return sites that generate at least one of the waste types selected. 
+Search for sites that generate specific federal waste types according to the past 365 days of hazardous waste manifests or the latest Biennial Hazardous Waste Report. You may select multiple codes to return sites that generate at least one of the waste types selected. 
 
 **State Waste Codes**
 
