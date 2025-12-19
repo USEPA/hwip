@@ -94,7 +94,7 @@ Note: searching by Management Process Codes, TSDF Status, and Commercial Status 
 
 A process code represents a hazardous waste treatment, storage, or disposal process. The processes that will be used to treat, store, or dispose of hazardous waste at a facility are included in a facility's permit. Select a code to search for facilities that have at least one hazardous waste management unit where the most recent unit data includes the code. You may select multiple codes to return facilities that have at least one unit with one of the codes.
 
-**TSDF Status**
+**TSDF Operating Status**
 
 Search for Treatment, Storage, and Disposal Facilities based on the Operating Status of the facilities' most recent hazardous waste management unit data. 
 
