@@ -8,9 +8,9 @@ HWIP is the U.S. Environmental Protection Agency’s repository for nationwide h
 
 ### Video Tutorials
 
-[Introduction to HWIP](https://youtu.be/ywl0OxX80Qc)
+[Introduction to HWIP](https://youtu.be/ywl0OxX80Qc) - this short YouTube video gives an overview of the HWIP.
 
-Short videos about individual HWIP features - coming soon.
+Videos about individual HWIP features: Coming soon.
 
 ### Overview of HWIP Features
 
