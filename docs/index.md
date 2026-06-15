@@ -4,6 +4,11 @@ The Help Center for [RCRAInfo’s Hazardous Waste Information Platform (HWIP)](h
 
 HWIP is the U.S. Environmental Protection Agency’s repository for nationwide hazardous waste generation, management, and transportation data. HWIP supports implementation of the Resource Conservation and Recovery Act of 1976, Hazardous and Solid Waste Amendments of 1984, and Hazardous Waste Electronic Manifest Establishment Act of 2012.
 
+Most data on the HWIP is updated **nightly**. Exceptions:
+
+- CSV Downloads: weekly
+- Manifest data: 90 days after shipment receipt at the receiving facility, or for exports, 90 days after waste left the U.S.
+
 ## Getting Started
 
 ### Video Tutorials
@@ -45,7 +50,7 @@ The HWIP provides two sources of help about the website. Hover over circles with
 Data comes from regulated industry, authorized state agencies, and U.S. EPA via RCRAInfo, the national hazardous waste program's data system. Most data on the HWIP is updated **nightly** from RCRAInfo. Exceptions:
 
 - CSV Downloads: weekly
-- Manifest data: 90 days after receipt at the receiving facility, or for exports, 90 days after waste left the U.S.
+- Manifest data: 90 days after shipment receipt at the receiving facility, or for exports, 90 days after waste left the U.S.
 
 ### Glossary
 
