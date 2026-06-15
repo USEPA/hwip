@@ -42,7 +42,9 @@ The HWIP provides two sources of help about the website. Hover over circles with
 
 ## About the Data
 
-Most data on the HWIP are updated nightly from EPA's RCRAInfo, the national hazardous waste program's data system. The CSV Downloads are updated weekly from RCRAInfo. Data in RCRAInfo comes from regulated industry, authorized state agencies, and EPA. 
+Data comes from regulated industry, authorized state agencies, and U.S. EPA via RCRAInfo, the national hazardous waste program's data system. Most data on the HWIP is updated **nightly** from RCRAInfo. Exceptions:
+- CSV Downloads: weekly
+- Manifest data: 90 days after receipt at the receiving facility (or date waste left the U.S. for exports)
 
 ### Glossary
 
